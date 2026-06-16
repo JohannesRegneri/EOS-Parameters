@@ -4282,6 +4282,12 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 52708,Diffusion_14,Diffusion_14,5
 52709,Diffusion_15,Diffusion_15,5
 52710,Diffusion_16,Diffusion_16,5
+52711,Compound_Lens_Index_Rotate_2,Compound_Lens_Index_Rotate_2,5
+52712,Color_Mix_Macro_Pause_2,Color_Mix_Macro_Pause_2,3
+52713,Color_Mix_Mode_5,Color_Mix_Mode_5,3
+52714,Color_Mix_Mode_6,Color_Mix_Mode_6,3
+52715,Color_Mix_Mode_7,Color_Mix_Mode_7,3
+52716,Color_Mix_Mode_8,Color_Mix_Mode_8,3
 52912,Pan_Rotate_4,Pan_Rotate_4,2
 52913,Rotate_Mode_X_5,Rotate_Mode_X_5,5
 53243,Main_Intensity_4,Main_Intensity_4,1
